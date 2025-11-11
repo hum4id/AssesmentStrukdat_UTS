@@ -348,7 +348,7 @@ kode ini merupakan implementasi struktur data Double Linked List (DLL) dalam bah
 Kode ini merupakan implementasi fungsi-fungsi utama dari Double Linked List (DLL) untuk mendukung pengelolaan data postingan pada aplikasi MyTelu. Program menyediakan operasi dasar seperti membuat list baru (createNewList), menambah elemen di awal (insertFirst), akhir (insertLast), atau di tengah list (insertAfter), serta mencari elemen berdasarkan ID (findElement). Selain itu, terdapat fungsi untuk menampilkan semua data (printList, printAllPosts), menghapus elemen pertama dan terakhir (deleteFirst, deleteLast), dan memasukkan postingan secara berurutan berdasarkan ID (insertPostByID). Fungsi tambahan seperti printPostsByUsername menampilkan postingan milik pengguna tertentu, printMostLikedPost mencari postingan dengan jumlah likes terbanyak, dan updatePostLikes memperbarui jumlah likes atau unlikes tanpa membuat nilainya negatif. Secara keseluruhan, file ini menjadi bagian logika utama yang mengatur bagaimana setiap postingan tersimpan dan dimanipulasi dalam struktur data ganda yang terhubung dua arah.
 
 3. Output Program
-![Output](http://url/to/Screenshot%202025-11-11%20145036.png)Screenshoot Output Terminal
+![Output](Screenshot%202025-11-11%145036.png)Screenshoot Output Terminal
 
 
 
