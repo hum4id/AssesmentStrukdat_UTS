@@ -16,8 +16,7 @@ Berikut adalah kode program untuk menyimpan data postingan pada fitur timeline m
  * Author: Abu Abdirrahman Humaid Al-Atsary
  * NIM: 103122400020
  * Deskripsi: Program untuk menentukan apakah sebuah bilangan
- * yang diinput oleh user adalah ganjil atau genap.
- */
+ * genap.
 
 #include <iostream>
 #include "DLL.h"
